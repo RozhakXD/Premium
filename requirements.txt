@@ -1,4 +1,5 @@
-rich
 requests
-sh
-requests-toolbelt
+rich
+futures
+pycryptodomex
+PyNaCl
