@@ -18,7 +18,7 @@
 ### Description
 **Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here.
 
-![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
+![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Release.png)
 
 This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
