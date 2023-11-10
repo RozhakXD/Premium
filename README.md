@@ -57,7 +57,7 @@ This script will not require updates because it is automatically updated at all 
   - **Running on Termux**
   
     ```
-    >> cd "$HOME/Premium" && git pull
+    >> cd "$HOME/Premium"
     >> python Prem.py
     ```
 - **Terminal - [Pydroid3](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=sharing)**
