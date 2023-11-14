@@ -46,7 +46,7 @@ This script will not require updates because it is automatically updated at all 
 - **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install clang python-pip libffi openssl libsodium binutils
+  >> pkg install clang python-pip wget libffi openssl libsodium binutils
   >> apt install python-cryptography
   >> SODIUM_INSTALL=system pip install pynacl
   >> git clone https://github.com/RozhakXD/Premium
