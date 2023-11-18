@@ -44,6 +44,7 @@ This script will not require updates because it is automatically updated at all 
 ### Installation
 
 - **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
+
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install clang python-pip wget libffi openssl libsodium binutils
@@ -59,39 +60,6 @@ This script will not require updates because it is automatically updated at all 
     ```
     >> cd "$HOME/Premium"
     >> python Prem.py
-    ```
-- **Terminal - [Pydroid3](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=sharing)**
-  ```
-  >> cd /sdcard/Download
-  >> mkdir Premium && cd Premium
-  >> pip3 install requests futures
-  >> wget https://raw.githubusercontent.com/RozhakXD/Premium/main/__pycache__/Prem.py -O Prem.py
-  >> python3 Prem.py
-  ```
-  - **Running on Pydroid3**
-  
-    ```
-    >> cd /sdcard/Download/Premium
-    >> python3 Prem.py
-    ```
-    
-- **[Termux - Pydroid3](https://drive.google.com/file/d/1j9LIEstieavaERI0_qOBEbF70Xy7Xxcp/view?usp=sharing)**
-  ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install clang binutils git libffi openssl libsodium iproute2
-  >> pkg install tur-repo -y
-  >> pkg install python3.9 -y
-  >> python3.9 -m pip install --upgrade pip
-  >> git clone https://github.com/RozhakXD/Premium
-  >> cd "Premium/_pycache_"
-  >> python3.9 -m pip install requests futures
-  >> python3.9 Prem.py
-  ```
-  - **Running on Termux**
-  
-    ```
-    >> cd "$HOME/Premium/_pycache_"
-    >> python3.9 Prem.py
     ```
 
 ### PyNacl Or PyCryptodome Not Installed?
