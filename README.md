@@ -53,13 +53,32 @@ This script will not require updates because it is automatically updated at all 
   >> git clone https://github.com/RozhakXD/Premium
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
-  >> python Prem.py
+  >> chmod +x aarch64
+  >> ./aarch64
   ```
   - **Running on Termux**
   
     ```
     >> cd "$HOME/Premium"
-    >> python Prem.py
+    >> ./aarch64
+    ```
+
+  - **Linux - [Termux Pydroid](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drivesdk)**
+
+  ```
+  >> apt update -y && apt upgrade -y
+  >> pkg install git python-pip
+  >> git clone https://github.com/RozhakXD/Premium
+  >> cd "Premium/__pycache__"
+  >> python -m pip install -r requirements.txt
+  >> chmod +x aarch64
+  >> ./aarch64
+  ```
+  - **Running on Termux Pydroid**
+  
+    ```
+    >> cd "$HOME/Premium/__pycache__"
+    >> ./aarch64
     ```
 
 ### PyNacl Or PyCryptodome Not Installed?
