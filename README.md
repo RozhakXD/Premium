@@ -50,7 +50,8 @@ This script will not require updates because it is automatically updated at all 
   >> pkg install clang python-pip wget libffi openssl libsodium binutils
   >> apt install python-cryptography
   >> SODIUM_INSTALL=system pip install pynacl
-  >> git clone https://github.com/RozhakXD/Premium
+  >> pkg install git && pkg upgrade git
+  >> git clone https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
   >> chmod +x aarch64
@@ -67,8 +68,9 @@ This script will not require updates because it is automatically updated at all 
 
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install git python-pip
-  >> git clone https://github.com/RozhakXD/Premium
+  >> pkg install git && pkg upgrade git
+  >> pkg install python-pip
+  >> git clone https://github.com/RozhakXD/Premium.git
   >> cd "Premium/__pycache__"
   >> python -m pip install -r requirements.txt
   >> chmod +x aarch64
