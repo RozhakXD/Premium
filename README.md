@@ -100,7 +100,7 @@ This script will not require updates because it is automatically updated at all 
 
 ### Getting Successful Results?
 
-- Use good methods like : **Instagram Apps 2020, Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023, Account Center.**
+- Use good methods like : **Instagram Apps 2024, Instagram Apps 2023, Threads Apps 2023, Account Center.**
 - Only new accounts or accounts that have a small followers can be successful.
 - You also have to pay attention to whether you are lucky or not in hacking.
 - Use the automatic setting that is **"Not Recommended"** or number One.
