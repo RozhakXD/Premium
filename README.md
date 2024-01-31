@@ -51,7 +51,7 @@ This script will not require updates because it is automatically updated at all 
   >> apt install python-cryptography
   >> SODIUM_INSTALL=system pip install pynacl
   >> pkg install git && pkg upgrade git
-  >> git clone https://github.com/RozhakXD/Premium.git
+  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
   >> chmod +x aarch64
@@ -70,7 +70,7 @@ This script will not require updates because it is automatically updated at all 
   >> apt update -y && apt upgrade -y
   >> pkg install git && pkg upgrade git
   >> pkg install python-pip
-  >> git clone https://github.com/RozhakXD/Premium.git
+  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium/__pycache__"
   >> python -m pip install -r requirements.txt
   >> chmod +x aarch64
