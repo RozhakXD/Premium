@@ -4,14 +4,9 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
-  </p>
-  <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RozhakXD/Premium">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/RozhakXD/Premium">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/RozhakXD/Premium">
+    <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/RozhakXD/Premium">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
