@@ -4,7 +4,6 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/RozhakXD/Premium">
     <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
