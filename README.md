@@ -1,22 +1,17 @@
 # Instagram Brute Force Premium - From Indonesian
-**[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
-<p align="left"><img src="Data/Images/Premium.jpg"/></p>
+<p align="center"><img src="Data/Images/Premium.jpg"/></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
 </p>
 
-[![GitHub watchers](https://img.shields.io/github/watchers/rozhakxd/Premium.svg?style=social&label=Watch)](https://GitHub.com/rozhakxd/Premium/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/rozhakxd/Premium.svg?style=social&label=Fork)](https://GitHub.com/rozhakxd/Premium/network/)
-[![GitHub stars](https://img.shields.io/github/stars/rozhakxd/Premium.svg?style=social&label=Star)](https://GitHub.com/rozhakxd/Premium/stargazers/)
-
 ##
 
 ### Description
-**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here.
+**[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script. **Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here.
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Release.png)
 
@@ -36,8 +31,7 @@ This script will not require updates because it is automatically updated at all 
 
 ### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
-  - [Termux](https://f-droid.org/repo/com.termux_118.apk)
-  - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
+  - [Termux](https://f-droid.org/repo/com.termux_118.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
 
 ##
   
@@ -47,10 +41,9 @@ This script will not require updates because it is automatically updated at all 
 
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install clang python-pip wget libffi openssl libsodium binutils
+  >> pkg install git clang python-pip wget libffi openssl libsodium binutils
   >> apt install python-cryptography
   >> SODIUM_INSTALL=system pip install pynacl
-  >> pkg install git && pkg upgrade git
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
@@ -64,25 +57,6 @@ This script will not require updates because it is automatically updated at all 
     >> ./aarch64
     ```
 
-- **Linux - [Termux Pydroid](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drivesdk)**
-
-  ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install git && pkg upgrade git
-  >> pkg install python-pip
-  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
-  >> cd "Premium/__pycache__"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x aarch64
-  >> ./aarch64
-  ```
-  - **Running on Termux Pydroid**
-  
-    ```
-    >> cd "$HOME/Premium/__pycache__"
-    >> ./aarch64
-    ```
-
 ### PyNacl Or PyCryptodome Not Installed?
 
 - I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
@@ -92,7 +66,7 @@ This script will not require updates because it is automatically updated at all 
 
 ##
 
-### Overcoming Spam Dumps?
+### Spam When Dumped Or Logged Out?
 
 - The cookies you use must be online in the browser where the cookies are taken.
 - You can change your Instagram account because it is possible that the account has been detected as spam by Instagram.
@@ -127,8 +101,8 @@ This script will not require updates because it is automatically updated at all 
 
 ### I Can't Use WiFi?
 
+- Using a wifi network may cause you not to get a successful result or checkpoint.
 - WiFi causes your IP address to be blocked or spammed by Instagram.
-- You will not get success results or checkpoints if you use WiFi.
 - WiFi causes abnormal cracking or will get stuck on **"HIDUPKAN MODE PESAWAT 2 DETIK".**
 
 ### I Only Got Checkpoints?
@@ -148,30 +122,24 @@ This script will not require updates because it is automatically updated at all 
 
 ### Bug Success Result?
 
-- The number of followers does not match.
+- The number of followers does not match?
   - The problem with Instagram can be said that there is one username on two different accounts.
   - Maybe you get accounts multiple times at the same second.
-- The cookie has been logged out.
+- The cookies has been logged out?
   - Maybe the account owner has changed the password so the cookies is logged out.
   - There is a problem with Instagram that causes cookies to be logged out.
-
-### Instagram Account Always Logged Out?
-
-- The Instagram account must be online in the browser to receive cookies.
-- Please change your Instagram account if the problem recurs because maybe your account was detected as spam by Instagram.
-- Change the password on your Instagram account.
-- It is recommended that you use cracked cookies so they last longer.
-- You are required to use the most up-to-date browser to get cookies to avoid spam.
-- You can use the desktop site to reduce spam on your Instagram account.
+- Instagram account can't be logged in.
+  - Instagram's security is high, which means that accounts cannot be logged in on new devices.
+  - Because your device or IP address is blocked by Instagram.
 
 ### Problems When Cracking?
 
-- **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry because it's not problematic.
+- **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry, this is a marker for a smooth process.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** You don't need to turn on airplane mode because this is not your IP address that is blocked.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
-- **"COOKIES DISABLED IN YOUR BROWSER!"** Ignore this command because it will not affect the results you will get.
-- **"HARAP TUNGGU BEBERAPA MENIT!"** This command is a sign that your IP address has been spammed.
-- **"OOPS, AN ERROR OCCURRED!"** This command will not affect the results so just ignore it.
+- **"COOKIES DISABLED IN YOUR BROWSER!"** This lack of influence is unique to Instagram so that it conveys this response.
+- **"HARAP TUNGGU BEBERAPA MENIT!"** This is not an error but just a reminder if your IP address has been spammed.
+- **"OOPS, AN ERROR OCCURRED!"** You don't need to worry, this is a marker for a smooth process.
 
 ### Why Does Dump Fail?
 
@@ -188,13 +156,10 @@ This script will not require updates because it is automatically updated at all 
 
 ##
 
-### Protection Against Attacker
-- Use Strong Password (which contains standard password chars + longest as possible).
-- Use 2F Authentication.
-- Do not use Passwords associated with Names (for example name123).
+### Warning!
+As a developer, I want to emphasize that use of this tools is entirely the user's responsibility. I am not responsible for any consequences that may occur, whether intended or unintentional, when you use this tools.
 
 ##
-
 ~~~python
 print("Happy Hacking Day !")
 ~~~
