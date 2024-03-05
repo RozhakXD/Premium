@@ -7,10 +7,8 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/RozhakXD/Premium">
     <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/RozhakXD/Premium">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
-  <h4> Instagram Brute Force In Termux ! </h4>
 </div>
 
 ##
