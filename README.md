@@ -13,9 +13,7 @@
 ##
 
 ### Description
-**[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
-
-**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here.
+**[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here. **Premium** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Release.png)
 
