@@ -109,9 +109,9 @@ This script will not require updates because it is automatically updated at all 
 
 ### I Only Got Checkpoints?
 
+- Instagram security is increasing so it becomes difficult to get successful results.
 - Incorrect selection of user agents and methods can cause checkpoint results.
 - The target you entered is not good or someone has already executed it.
-- Instagram security is increasing so it becomes difficult to get successful results.
 - Maybe your provider is not suitable for the method or user agent you chose.
 
 ### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
@@ -136,12 +136,12 @@ This script will not require updates because it is automatically updated at all 
 
 ### Problems When Cracking?
 
+- **"OOPS, AN ERROR OCCURRED!"** You don't need to worry, this is a marker for a smooth process.
 - **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry, this is a marker for a smooth process.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** You don't need to turn on airplane mode because this is not your IP address that is blocked.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
 - **"COOKIES DISABLED IN YOUR BROWSER!"** This lack of influence is unique to Instagram so that it conveys this response.
 - **"HARAP TUNGGU BEBERAPA MENIT!"** This is not an error but just a reminder if your IP address has been spammed.
-- **"OOPS, AN ERROR OCCURRED!"** You don't need to worry, this is a marker for a smooth process.
 
 ### Why Does Dump Fail?
 
