@@ -145,10 +145,10 @@ This script will not require updates because it is automatically updated at all 
 
 ### Why Does Dump Fail?
 
+- The target you entered is incorrect or private and verified with a blue tick.
 - Your Instagram account or cookies on your account are logged out and must be replaced with new ones.
 - I can guarantee that the dump error is a problem with Target or the Cookies you use.
 - Maybe your Instagram account was hit by spam or blocked for 24 hours.
-- The target you entered is incorrect or private and verified with a blue tick.
 
 ##
 
