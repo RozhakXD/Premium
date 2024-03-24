@@ -59,6 +59,24 @@ This script will not require updates because it is automatically updated at all 
     >> ./aarch64
     ```
 
+- **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
+
+  ```
+  >> apt update -y && apt upgrade -y
+  >> pkg install git python-pip
+  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
+  >> cd "Premium"
+  >> python -m pip install -r requirements.txt
+  >> chmod +x x86_64
+  >> ./x86_64
+  ```
+  - **Running on Termux**
+  
+    ```
+    >> cd "$HOME/Premium"
+    >> ./x86_64
+    ```
+
 ### PyNacl Or PyCryptodome Not Installed?
 
 - I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
