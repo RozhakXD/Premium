@@ -1,3 +1,4 @@
+googletrans==3.1.0a0
 requests
 rich
 futures
