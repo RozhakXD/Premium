@@ -42,16 +42,16 @@ This script will not require updates because it is automatically updated at all 
 - **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
 
   ```
->> pkg update -y && pkg upgrade -y
->> pkg install clang binutils git libffi openssl libsodium iproute2
->> pkg remove python -y && pkg install tur-repo -y
->> pkg install python3.9 -y
->> python3.9 -m pip install --upgrade pip
->> git clone --depth 1 https://github.com/RozhakXD/Premium.git
->> cd "Premium"
->> python3.9 -m pip install -r requirements.txt
->> chmod +x armv7l
->> ./armv7l
+  >> pkg update -y && pkg upgrade -y
+  >> pkg install clang binutils git libffi openssl libsodium iproute2
+  >> pkg remove python -y && pkg install tur-repo -y
+  >> pkg install python3.9 -y
+  >> python3.9 -m pip install --upgrade pip
+  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
+  >> cd "Premium"
+  >> python3.9 -m pip install -r requirements.txt
+  >> chmod +x armv7l
+  >> ./armv7l
   ```
   - **Running on Termux**
   
