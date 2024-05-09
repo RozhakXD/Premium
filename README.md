@@ -42,21 +42,22 @@ This script will not require updates because it is automatically updated at all 
 - **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
 
   ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install git clang python-pip wget libffi openssl libsodium binutils
-  >> apt install python-cryptography
-  >> SODIUM_INSTALL=system pip install pynacl
-  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
-  >> cd "Premium"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x aarch64
-  >> ./aarch64
+>> pkg update -y && pkg upgrade -y
+>> pkg install clang binutils git libffi openssl libsodium iproute2
+>> pkg remove python -y && pkg install tur-repo -y
+>> pkg install python3.9 -y
+>> python3.9 -m pip install --upgrade pip
+>> git clone --depth 1 https://github.com/RozhakXD/Premium.git
+>> cd "Premium"
+>> python3.9 -m pip install -r requirements.txt
+>> chmod +x armv7l
+>> ./armv7l
   ```
   - **Running on Termux**
   
     ```
     >> cd "$HOME/Premium"
-    >> ./aarch64
+    >> ./armv7l
     ```
 
 - **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
