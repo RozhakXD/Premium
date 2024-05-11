@@ -43,12 +43,12 @@ This script will not require updates because it is automatically updated at all 
 
   ```
   >> pkg update -y && pkg upgrade -y
-  >> pkg install clang binutils git libffi openssl libsodium iproute2
+  >> pkg install build-essential clang binutils git libffi openssl libsodium iproute2 rust
   >> pkg remove python -y && pkg install tur-repo -y
   >> pkg install python3.9 -y
-  >> python3.9 -m pip install --upgrade pip
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
+  >> python3.9 -m pip install --upgrade pip
   >> python3.9 -m pip install -r requirements.txt
   >> chmod +x armv7l
   >> ./armv7l
