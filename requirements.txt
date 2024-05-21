@@ -5,3 +5,4 @@ futures
 pycryptodomex
 PyNaCl
 cryptography
+httpcore==0.9.1
