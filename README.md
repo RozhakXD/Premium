@@ -67,14 +67,14 @@ This script will not require updates because it is automatically updated at all 
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
-  >> chmod +x x86_64
-  >> ./x86_64
+  >> chmod +x armv7l
+  >> ./armv7l
   ```
   - **Running on Termux**
   
     ```
     >> cd "$HOME/Premium"
-    >> ./x86_64
+    >> ./armv7l
     ```
 
 ### PyNacl Or PyCryptodome Not Installed?
