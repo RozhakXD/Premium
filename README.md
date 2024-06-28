@@ -66,7 +66,7 @@ This script will not require updates because it is automatically updated at all 
   >> pkg install git python-pip
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
-  >> python -m pip install -r requirements.txt
+  >> python -m pip install requests futures
   >> chmod +x armv7l
   >> ./armv7l
   ```
