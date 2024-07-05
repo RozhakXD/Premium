@@ -73,7 +73,7 @@ This script will not require updates because it is automatically updated at all 
   - **Running on Termux**
   
     ```
-    >> cd "$HOME/Premium"
+    >> cd "$HOME/Premium/Premium"
     >> ./Prem
     ```
 
