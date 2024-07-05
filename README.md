@@ -49,14 +49,14 @@ This script will not require updates because it is automatically updated at all 
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
   >> cd "Premium"
   >> python -m pip install -r requirements.txt
-  >> chmod +x aarch64
-  >> ./aarch64
+  >> chmod +x Prem
+  >> ./Prem
   ```
   - **Running on Termux**
   
     ```
     >> cd "$HOME/Premium"
-    >> ./aarch64
+    >> ./Prem
     ```
 
 - **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
@@ -65,16 +65,16 @@ This script will not require updates because it is automatically updated at all 
   >> apt update -y && apt upgrade -y
   >> pkg install git python-pip
   >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
-  >> cd "Premium"
+  >> cd "Premium/Premium"
   >> python -m pip install requests futures
-  >> chmod +x armv7l
-  >> ./armv7l
+  >> chmod +x Prem
+  >> ./Prem
   ```
   - **Running on Termux**
   
     ```
     >> cd "$HOME/Premium"
-    >> ./armv7l
+    >> ./Prem
     ```
 
 ### PyNacl Or PyCryptodome Not Installed?
