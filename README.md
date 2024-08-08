@@ -16,14 +16,16 @@
 
 This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
-This script is built using the latest version of the private Instagram API, which is obtained by performing SSL pinning bypass on the Instagram application. It supports login via cookies, helping to prevent spam detection by Instagram. The script includes features for obtaining free Likes, Comments, and Followers. Additionally, it can generate random user agents, ensuring that the account remains up to date.
+## Features
+
+This script is developed using SSL pinning bypass methods for Instagram and the latest API version, allowing for login via cookies. This approach helps prevent Instagram from detecting and blocking spam. The script offers several features, including the ability to get free Likes, Comments, and Followers, and generates random user agents to keep the account updated and less detectable.
 
 <details>
   <summary>Show Image Features</summary>
   <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features">
 </details>
 
-Moreover, the script includes a highly dangerous feature that allows for the brutal reporting of other people's Instagram accounts. It also has a self-updating method that refreshes automatically every second, ensuring it remains effective and current without requiring manual updates.
+Additionally, the script includes a highly risky feature for brutally reporting other Instagram accounts. It also has an automatic updating function that refreshes every second, ensuring it remains effective and up-to-date without requiring manual intervention.
 
 ## Compatibility
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
