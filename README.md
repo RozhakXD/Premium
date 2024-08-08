@@ -82,11 +82,11 @@ If you encounter issues while using the script, it’s important to troubleshoot
 - **System Issues**: Instagram may sometimes experience technical problems that cause unexpected logouts. In such cases, waiting for a while or trying again later might resolve the issue.
 
 ### Getting Successful Results
+- **User-Agent Selection**: Choose high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, and `HUAWEI`. Good user-agents mimic real devices, which helps avoid detection by Instagram.
 - **Method Selection**: Use reliable methods such as `Instagram Apps 2024`, `Instagram Apps 2023`, `Threads Apps 2023`, and `Account Center`. These updated methods have a higher success rate and are more effective.
 - **Account Criteria**: Target new accounts or those with fewer followers. These accounts are generally less secure and easier to access, increasing your chances of success.
-- Luck and Target: Success is influenced by your luck and the specific account you target. Variability in results can occur based on the target’s activity and security measures.
+- **Luck and Target**: Success is influenced by your luck and the specific account you target. Variability in results can occur based on the target’s activity and security measures.
 - **Automatic Settings**: Opt for the automatic setting labeled Not Recommended or option number one. These settings are optimized to improve performance and success rates.
-- **User-Agent Selection**: Choose high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, and `HUAWEI`. Good user-agents mimic real devices, which helps avoid detection by Instagram.
 - **Target Search**: Look for targets on [Instagram Explore](https://www.instagram.com/explore/) with at least 1,000 followers. Accounts with more followers are usually more active and easier to target.
 
 ### Troubleshooting Results Issues
@@ -104,15 +104,14 @@ If you encounter issues while using the script, it’s important to troubleshoot
 - **Running the Script**: Execute the script and select option one or `Crack Ulang Hasil Checkpoint` to start the process of reopening the checkpoint results.
 - **File Name**: Enter the name of the file you want to crack from the `Temporary` directory. Ensure you know the exact file name to proceed with the cracking process.
 
-
 ### WiFi Network Challenges
+- **IP Blocking**: WiFi connections are more likely to result in your IP address being blocked or flagged by Instagram. This is due to the fixed IP addresses commonly associated with WiFi networks.
 - **Cracking Issues**: WiFi can cause abnormal behavior during the cracking process, such as getting stuck on the `HIDUPKAN MODE PESAWAT 2 DETIK` step. This issue arises because WiFi can create inconsistent connections, affecting the script's efficiency.
 - **Impact on Results**: Using a WiFi network may lead to unsuccessful results or issues with checkpoints. WiFi networks can cause interference that affects the script's performance.
-- **IP Blocking**: WiFi connections are more likely to result in your IP address being blocked or flagged by Instagram. This is due to the fixed IP addresses commonly associated with WiFi networks.
 
 ### Why Am I Only Getting Checkpoints?
-- **Instagram Security Updates**: Instagram's security measures are constantly evolving, making it increasingly difficult to achieve successful results. Frequent updates to Instagram's security can lead to more checkpoint results.
 - **User Agent and Method Selection**: Choosing incorrect user agents or methods can lead to checkpoint results. Ensure that you are selecting the correct user agents and methods for the best chance of success.
+- **Instagram Security Updates**: Instagram's security measures are constantly evolving, making it increasingly difficult to achieve successful results. Frequent updates to Instagram's security can lead to more checkpoint results.
 - **Target Quality**: The target you are trying to crack may not be suitable, or it might have already been attempted by someone else. Ensure that the target is valid and not already processed.
 - **Provider and Compatibility**: Your network provider or the chosen user agent may not be compatible with the method you are using. Try switching providers or user agents if you encounter issues.
 - **IP Address Variation**: Different IP addresses can affect the success rate, as each user has a unique IP. This variation can contribute to frequent checkpoint results.
@@ -128,8 +127,8 @@ If you encounter issues while using the script, it’s important to troubleshoot
 ### Encountering Issues with Success Results?
 
 - **Successful Results Showing Checkpoint**
-    - **Device Mismatch**: Often, this issue occurs due to using a different device from the one previously used, which can trigger Instagram's security measures and lock the account.
     - **Using Cookies**: If you have cookies available, try logging in using those cookies through a browser to bypass checkpoint issues.
+    - **Device Mismatch**: Often, this issue occurs due to using a different device from the one previously used, which can trigger Instagram's security measures and lock the account.
 -  **Mismatched Followers Count**
     - **Username Overlap**: Sometimes, the same username may appear on two different accounts, leading to discrepancies in follower counts.
     - **Multiple Accounts**: You might receive information about multiple accounts simultaneously, which can cause confusion in follower data.
