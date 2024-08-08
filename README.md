@@ -1,12 +1,12 @@
 # Instagram Brute Force Premium - From Indonesia
 <p align="center"><img src="https://github.com/user-attachments/assets/12848aa1-8445-4202-9cb8-760e37655e0e" alt="Premium Image"/></p>
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square" alt="Author Badge">
-    <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square" alt="Python Badge">
-    <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square" alt="Open Source Badge">
-    <img src="https://img.shields.io/maintenance/no/2024" alt="Maintenance Badge">
-  </p>
+    <p>
+        <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square" alt="Author Badge">
+        <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square" alt="Python Badge">
+        <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square" alt="Open Source Badge">
+        <img src="https://img.shields.io/maintenance/no/2024" alt="Maintenance Badge">
+    </p>
 </div>
 
 ##
@@ -21,25 +21,24 @@ This script will not require updates because it is automatically updated at all 
 This Program is developed using SSL pinning bypass methods for Instagram and the latest API version, allowing for login via cookies. This approach helps prevent Instagram from detecting and blocking spam. The script offers several features, including the ability to get free Likes, Comments, and Followers, and generates random user agents to keep the account updated and less detectable.
 
 <details>
-  <summary>Show Features 1</summary>
-  <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features 1">
+    <summary>Show Features 1</summary>
+    <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features 1">
 </details>
 
 <details>
-  <summary>Show Features 2</summary>
-  <img src="https://github.com/user-attachments/assets/c6998060-2842-41e6-a60e-03819b990667" alt="Premium Features 2">
+    <summary>Show Features 2</summary>
+    <img src="https://github.com/user-attachments/assets/c6998060-2842-41e6-a60e-03819b990667" alt="Premium Features 2">
 </details>
 
 Additionally, the script includes a highly risky feature for brutally reporting other Instagram accounts. It also has an automatic updating function that refreshes every second, ensuring it remains effective and up-to-date without requiring manual intervention.
 
 ## Compatibility
-  - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
-  - [Termux](https://f-droid.org/repo/com.termux_1020.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
+- [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
+- [Termux](https://f-droid.org/repo/com.termux_1020.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
 
 ## Installation
 
 - **Linux - [Termux](https://drive.google.com/file/d/17ULiEz8qnvMs9wZ_yY_oYhk4kfOHE1mR/view?usp=sharing)**
-
   ```
   $ pkg update -y && pkg upgrade -y
   $ pkg install clang python-pip libffi openssl libsodium binutils build-essential iproute2 rust
@@ -52,14 +51,12 @@ Additionally, the script includes a highly risky feature for brutally reporting 
   $ ./Prem
   ```
   - **Running on Termux**
-  
     ```
     $ cd "$HOME/Premium"
     $ ./Prem
     ```
 
 - **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
-
   ```
   $ apt update -y && apt upgrade -y
   $ pkg install git python-pip
@@ -70,7 +67,6 @@ Additionally, the script includes a highly risky feature for brutally reporting 
   $ ./Prem
   ```
   - **Running on Termux**
-  
     ```
     $ cd "$HOME/Premium/Premium"
     $ ./Prem
@@ -164,7 +160,7 @@ If you encounter issues while using the script, it’s important to troubleshoot
 If you continue to experience difficulties or if the issues are not covered here, please refer to the script documentation or seek additional support. Remember, resolving these problems promptly will help you achieve better results and ensure smoother operation.
 
 ## Screenshots
-![Results/Ok-16-July-2023.txt](https://github.com/RozhakXD/Premium/blob/main/Penyimpanan/Images/Ok-16-July-2023.png)
+![FunPic_20240808](https://github.com/user-attachments/assets/01bb0962-f50b-4d35-8533-53fe74684572)
 
 ## Warning
 As the developer of this tool, it’s crucial to understand that the use of this software is entirely at your own risk. I do not accept any responsibility for the outcomes, whether they are intentional or unintended, that may result from using this tool. Please ensure you use it responsibly and in accordance with applicable laws and regulations. Always exercise caution and make informed decisions to avoid any potential issues.
