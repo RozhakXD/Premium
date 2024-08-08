@@ -17,14 +17,14 @@
 This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
 ## Features
-This script is built using the latest version of the Instagram API and supports login via cookies, which helps prevent spam detection by Instagram. This script includes features to get free Likes, Comments, and Followers. In addition, this script can generate random user agents, ensuring that the account is always up to date.
+This script is built using the latest version of the Instagram API and supports login via cookies, helping to prevent spam detection by Instagram. It includes features for obtaining free Likes, Comments, and Followers. Additionally, the script can generate random user agents, ensuring that the account remains up to date.
 
 <details>
   <summary>Show Image Features</summary>
   <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features">
 </details>
 
-Moreover, the script includes a highly dangerous feature that allows for the brutal reporting of other people's Instagram accounts. It also has a self-updating method that automatically refreshes every second, ensuring it remains effective and up to date without requiring manual updates.
+Moreover, the script includes a highly dangerous feature that allows for the brutal reporting of other people's Instagram accounts. It also has a self-updating method that refreshes automatically every second, ensuring it remains effective and current without requiring manual updates.
 
 ## Compatibility
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
