@@ -21,8 +21,13 @@ This script will not require updates because it is automatically updated at all 
 This Program is developed using SSL pinning bypass methods for Instagram and the latest API version, allowing for login via cookies. This approach helps prevent Instagram from detecting and blocking spam. The script offers several features, including the ability to get free Likes, Comments, and Followers, and generates random user agents to keep the account updated and less detectable.
 
 <details>
-  <summary>Show Image Features</summary>
-  <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features">
+  <summary>Show Features 1</summary>
+  <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features 1">
+</details>
+
+<details>
+  <summary>Show Features 2</summary>
+  <img src="https://github.com/user-attachments/assets/c6998060-2842-41e6-a60e-03819b990667" alt="Premium Features 2">
 </details>
 
 Additionally, the script includes a highly risky feature for brutally reporting other Instagram accounts. It also has an automatic updating function that refreshes every second, ensuring it remains effective and up-to-date without requiring manual intervention.
@@ -36,21 +41,21 @@ Additionally, the script includes a highly risky feature for brutally reporting 
 - **Linux - [Termux](https://drive.google.com/file/d/17ULiEz8qnvMs9wZ_yY_oYhk4kfOHE1mR/view?usp=sharing)**
 
   ```
-  >> pkg update -y && pkg upgrade -y
-  >> pkg install clang python-pip libffi openssl libsodium binutils build-essential iproute2 rust
-  >> apt install python-cryptography
-  >> SODIUM_INSTALL=system pip install pynacl
-  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
-  >> cd "Premium"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x Prem
-  >> ./Prem
+  $ pkg update -y && pkg upgrade -y
+  $ pkg install clang python-pip libffi openssl libsodium binutils build-essential iproute2 rust
+  $ apt install python-cryptography
+  $ SODIUM_INSTALL=system pip install pynacl
+  $ git clone --depth 1 https://github.com/RozhakXD/Premium.git
+  $ cd "Premium"
+  $ python -m pip install -r requirements.txt
+  $ chmod +x Prem
+  $ ./Prem
   ```
   - **Running on Termux**
   
     ```
-    >> cd "$HOME/Premium"
-    >> ./Prem
+    $ cd "$HOME/Premium"
+    $ ./Prem
     ```
 
 - **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
