@@ -76,7 +76,7 @@ If you encounter issues while using the script, it’s important to troubleshoot
 
 ### Spam or Logout Issues
 - **Airplane Mode**: Use Airplane Mode on your device before dumping to reduce the risk of detection. Enabling Airplane Mode can help reset your network connection and minimize the chances of your IP being flagged by Instagram.
-- **Desktop Mode**: Open Instagram in desktop mode at Instagram Web and refresh the page every few minutes. This helps maintain a stable session and can prevent unexpected logouts.
+- **Desktop Mode**: Open Instagram in desktop mode at [Instagram Web](https://www.instagram.com/) and refresh the page every few minutes. This helps maintain a stable session and can prevent unexpected logouts.
 - **Cookies**: Ensure the cookies you are using are active in the browser where they were obtained. Active cookies help maintain your login session and reduce the chances of being logged out.
 - **Account**: If your current Instagram account is detected as spam, switch to a different account. Using a different account can help you avoid spam detection and continue your activities without interruptions.
 - **System Issues**: Instagram may sometimes experience technical problems that cause unexpected logouts. In such cases, waiting for a while or trying again later might resolve the issue.
@@ -86,7 +86,7 @@ If you encounter issues while using the script, it’s important to troubleshoot
 - **Method Selection**: Use reliable methods such as `Instagram Apps 2024`, `Instagram Apps 2023`, `Threads Apps 2023`, and `Account Center`. These updated methods have a higher success rate and are more effective.
 - **Account Criteria**: Target new accounts or those with fewer followers. These accounts are generally less secure and easier to access, increasing your chances of success.
 - **Luck and Target**: Success is influenced by your luck and the specific account you target. Variability in results can occur based on the target’s activity and security measures.
-- **Automatic Settings**: Opt for the automatic setting labeled Not Recommended or option number one. These settings are optimized to improve performance and success rates.
+- **Automatic Settings**: Opt for the automatic setting labeled `Not Recommended` or option number one. These settings are optimized to improve performance and success rates.
 - **Target Search**: Look for targets on [Instagram Explore](https://www.instagram.com/explore/) with at least 1,000 followers. Accounts with more followers are usually more active and easier to target.
 
 ### Troubleshooting Results Issues
