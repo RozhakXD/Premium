@@ -1,12 +1,11 @@
-# Instagram Brute Force Premium - From Indonesian
-<p align="center"><img src="Penyimpanan/Images/Premium.jpg"/></p>
-
+# Instagram Brute Force Premium - From Indonesia
+<p align="center"><img src="https://github.com/user-attachments/assets/12848aa1-8445-4202-9cb8-760e37655e0e" alt="Premium Image"/></p>
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
+    <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square" alt="Author Badge">
+    <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square" alt="Open Source Badge">
+    <img src="https://img.shields.io/maintenance/no/2024" alt="Maintenance Badge">
   </p>
 </div>
 
@@ -15,31 +14,25 @@
 ### Description
 **[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. [Premium](https://github.com/RozhakXD/Premium) is the mother of all scripts so all the features will be great here. **Premium** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
 
-![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Penyimpanan/Images/Release.png)
-
 This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
-##
+## Features
+This script is built using the latest version of the Instagram API and supports login via cookies, which helps prevent spam detection by Instagram. It includes features to gain free Likes, Comments, and Followers. Additionally, it can secure cracked Instagram accounts and generate user-agents randomly, ensuring they are always up to date.
 
-### What Features Does It Have?
+<details>
+  <summary>Show Image Features</summary>
+  <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features">
+</details>
 
-- This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
-- Having form data in the request will prevent spam from being detected by Instagram.
-- This script has a feature to get Likes, Comments and Followers for free.
-- This script has a feature to secure cracked Instagram accounts.
-- This script has a feature to generate user-agents randomly and always up to date.
-- There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
-- This script has a method that automatically updates every second.
+Moreover, the script includes a highly dangerous feature that allows for the brutal reporting of other people's Instagram accounts. It also has a self-updating method that automatically refreshes every second, ensuring it remains effective and up to date without requiring manual updates.
 
-### Works In Terminal?
+## Compatibility
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
-  - [Termux](https://f-droid.org/repo/com.termux_118.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
+  - [Termux](https://f-droid.org/repo/com.termux_1020.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
 
-##
-  
-### Installation
+## Installation
 
-- **Linux - [Termux](https://youtu.be/nGNFaJALBj0)**
+- **Linux - [Termux](https://drive.google.com/file/d/17ULiEz8qnvMs9wZ_yY_oYhk4kfOHE1mR/view?usp=sharing)**
 
   ```
   >> pkg update -y && pkg upgrade -y
@@ -77,108 +70,102 @@ This script will not require updates because it is automatically updated at all 
     >> ./Prem
     ```
 
-### PyNacl Or PyCryptodome Not Installed?
+## Solutions and Issues
 
-- Usually the pip installation process takes up to 1 hour. You can wait until this process is complete, don't close the application so that it doesn't fail during the installation.
-- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
-- The problem if the module is not installed is the Termux application which has problems during the installation.
-- You don't use Termux from play'store you should use ["Version-117"](https://f-droid.org/repo/com.termux_117.apk) or ["Version-118"](https://f-droid.org/repo/com.termux_118.apk).
-- Delete Termux data if the problem cannot be resolved.
+If you encounter issues while using the script, it’s important to troubleshoot effectively. This section outlines common problems and provides practical solutions to help you resolve these issues efficiently. By following these guidelines, you can address common errors and improve your overall experience with the script.
 
-##
+### Spam or Logout Issues
+- **Airplane Mode**: Use Airplane Mode on your device before dumping to reduce the risk of detection. Enabling Airplane Mode can help reset your network connection and minimize the chances of your IP being flagged by Instagram.
+- **Desktop Mode**: Open Instagram in desktop mode at Instagram Web and refresh the page every few minutes. This helps maintain a stable session and can prevent unexpected logouts.
+- **Cookies**: Ensure the cookies you are using are active in the browser where they were obtained. Active cookies help maintain your login session and reduce the chances of being logged out.
+- **Account**: If your current Instagram account is detected as spam, switch to a different account. Using a different account can help you avoid spam detection and continue your activities without interruptions.
+- **System Issues**: Instagram may sometimes experience technical problems that cause unexpected logouts. In such cases, waiting for a while or trying again later might resolve the issue.
 
-### Spam When Dumped Or Logged Out?
+### Getting Successful Results
+- **Method Selection**: Use reliable methods such as `Instagram Apps 2024`, `Instagram Apps 2023`, `Threads Apps 2023`, and `Account Center`. These updated methods have a higher success rate and are more effective.
+- **Account Criteria**: Target new accounts or those with fewer followers. These accounts are generally less secure and easier to access, increasing your chances of success.
+- Luck and Target: Success is influenced by your luck and the specific account you target. Variability in results can occur based on the target’s activity and security measures.
+- **Automatic Settings**: Opt for the automatic setting labeled Not Recommended or option number one. These settings are optimized to improve performance and success rates.
+- **User-Agent Selection**: Choose high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, and `HUAWEI`. Good user-agents mimic real devices, which helps avoid detection by Instagram.
+- **Target Search**: Look for targets on [Instagram Explore](https://www.instagram.com/explore/) with at least 1,000 followers. Accounts with more followers are usually more active and easier to target.
 
-- The cookies you use must be online in the browser where the cookies are taken.
-- You can change your Instagram account because it is possible that the account has been detected as spam by Instagram.
-- Maybe Instagram's system is abnormal, causing the account to be logged out.
-- Open desktop mode **"https://www.instgaram.com"** then refresh every few minutes.
-- You must use **"Airplane Mode"** before dumping.
+### Troubleshooting Results Issues
+- **Execution Issues**: If you aren't getting any results, it could be due to the username you're trying to hack. We find that 90% of issues are caused by the specific username's security measures.
+- **Password Selection**: Use the recommended passwords: `DEFAULT`, `COMPLETE` or numbers `04`, `05`.
+- **Target's Password**: Your target might have a strong or uncommon password.
+- **Password Encryption**: Don't use password encryption as it can reduce your chances of success.
+- **Airplane Mode**: Turn on `Airplane Mode` after every 200 attempts with your username.
+- **WiFi Usage**: If you are not getting any results at all, make sure you are not using a WiFi network, as it can cause your IP to be blocked.
 
-### Getting Successful Results?
+### [How to Open Checkpoint Results](https://drive.google.com/file/d/11RAN1jMdRK5mCTv8CdUbbGwKet5gnfGh/view?usp=sharing)
+- **User-Agent Selection**: Choose the user-agent from the selection or use the previously used one. This ensures compatibility with the system you are targeting.
+- **Account Status**: This method only works for accounts that are currently online and where the owner has confirmed `Yes, it's me!` This confirmation is necessary to proceed with the process.
+- **Waiting Period**: After cracking, wait for about 1-7 days or up to 30 days before attempting to open the checkpoint results. This waiting period helps in ensuring that the process is effective.
+- **Running the Script**: Execute the script and select option one or `Crack Ulang Hasil Checkpoint` to start the process of reopening the checkpoint results.
+- **File Name**: Enter the name of the file you want to crack from the `Temporary` directory. Ensure you know the exact file name to proceed with the cracking process.
 
-- Use good methods like : **Instagram Apps 2024, Instagram Apps 2023, Threads Apps 2023, Account Center.**
-- Only new accounts or accounts that have a small followers can be successful.
-- You also have to pay attention to whether you are lucky or not in hacking.
-- Use the automatic setting that is **"Not Recommended"** or number One.
-- Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, NEXUS, HUAWEI.**
-- Search target on **"https://www.instagram.com/explore/"** make sure it has 1k followers and above.
 
-### Not Getting Results?
+### WiFi Network Challenges
+- **Cracking Issues**: WiFi can cause abnormal behavior during the cracking process, such as getting stuck on the `HIDUPKAN MODE PESAWAT 2 DETIK` step. This issue arises because WiFi can create inconsistent connections, affecting the script's efficiency.
+- **Impact on Results**: Using a WiFi network may lead to unsuccessful results or issues with checkpoints. WiFi networks can cause interference that affects the script's performance.
+- **IP Blocking**: WiFi connections are more likely to result in your IP address being blocked or flagged by Instagram. This is due to the fixed IP addresses commonly associated with WiFi networks.
 
-- Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **04, 05**.
-- Your target has a password that is difficult to use or no password that is easy for them to use.
-- I guarantee that if there are no results at all it is the fault of your target which is not good at all.
-- I hope you don't use password encryption because it will result in not much result.
-- You do not turn on **"Airplane Mode"** in multiples of 200 for your username.
+### Why Am I Only Getting Checkpoints?
+- **Instagram Security Updates**: Instagram's security measures are constantly evolving, making it increasingly difficult to achieve successful results. Frequent updates to Instagram's security can lead to more checkpoint results.
+- **User Agent and Method Selection**: Choosing incorrect user agents or methods can lead to checkpoint results. Ensure that you are selecting the correct user agents and methods for the best chance of success.
+- **Target Quality**: The target you are trying to crack may not be suitable, or it might have already been attempted by someone else. Ensure that the target is valid and not already processed.
+- **Provider and Compatibility**: Your network provider or the chosen user agent may not be compatible with the method you are using. Try switching providers or user agents if you encounter issues.
+- **IP Address Variation**: Different IP addresses can affect the success rate, as each user has a unique IP. This variation can contribute to frequent checkpoint results.
+- **Previous Success vs. Current Checkpoints**: If you previously achieved successful results but are now only getting checkpoints, it may be due to system bugs on Instagram that have since been resolved, making successful results more challenging.
 
-### [Open Checkpoint Results?](https://drive.google.com/file/d/11RAN1jMdRK5mCTv8CdUbbGwKet5gnfGh/view?usp=sharing)
+### [Success Results Can't Be Logged In](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
+- **Avoid Browser Login**: Do not attempt to log in using a browser, as this can introduce bugs or issues with your account. Use the recommended methods for logging in to prevent problems.
+- **Device Spam**: If you can't log in, it could be because your device is flagged as spam. Ensure that your device is not compromised or flagged by Instagram.
+- **Update Application**: Log in using the latest version of the Instagram app or a trusted Instagram clone app. This ensures compatibility and reduces the chance of login issues.
+- **Enable Airplane Mode**: Before attempting to log in, make sure to enable Airplane Mode on your device. This can help avoid detection and improve the chances of successful login.
+- **Use Cookies**: You can log in using cookies saved in the Results folder. Ensure you use the correct cookies corresponding to each date to successfully access the account.
 
-- Enter the user-agent selection or use the previously used user-agent.
-- Only works on accounts that are online and the owner has confirmed **"Yes it's me"!**
-- First wait about 1-7 days or 30 days after cracking.
-- Run the script then select number One or **"Crack Ulang Hasil Checkpoint".**
-- Enter the name of the file you want to crack **"dir Results"** to find out the file name.
+### Encountering Issues with Success Results?
 
-### I Can't Use WiFi?
+- **Successful Results Showing Checkpoint**
+    - **Device Mismatch**: Often, this issue occurs due to using a different device from the one previously used, which can trigger Instagram's security measures and lock the account.
+    - **Using Cookies**: If you have cookies available, try logging in using those cookies through a browser to bypass checkpoint issues.
+-  **Mismatched Followers Count**
+    - **Username Overlap**: Sometimes, the same username may appear on two different accounts, leading to discrepancies in follower counts.
+    - **Multiple Accounts**: You might receive information about multiple accounts simultaneously, which can cause confusion in follower data.
+- **Cookies Logged Out**
+    - **Password Change**: The account owner may have changed the password, which can log out the cookies and prevent access.
+    - **Instagram Issues**: There may be problems with Instagram that cause cookies to expire or be logged out unexpectedly.
+- **Unable to Log In to Instagram Account**
+    - **High Security**: Instagram's high security might prevent logins from new devices. Ensure you're using a trusted and recognized device.
+    - **Blocked Device or IP**: Your device or IP address might be blocked by Instagram, which can prevent successful logins.
 
-- Using a wifi network may cause you not to get a successful result or checkpoint.
-- WiFi causes your IP address to be blocked or spammed by Instagram.
-- WiFi causes abnormal cracking or will get stuck on **"HIDUPKAN MODE PESAWAT 2 DETIK".**
+### Common Issues When Cracking
+- **TERJADI KESALAHAN TAK TERDUGA!**: Similar to the previous message, this unexpected error is a routine part of the process and does not indicate a problem. It’s a sign that the script is functioning as expected.
+- **OOPS, AN ERROR OCCURRED!**: This message indicates that the process is running smoothly despite the error. You can ignore this message as it's a normal part of the operation.
+- **HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)**: You don't need to activate Airplane Mode in this case. The red color simply means that your IP address is not blocked, and this message can be safely ignored.
+- **HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)**: When you see this yellow alert, you are required to enable Airplane Mode within the specified time frame. This helps to avoid detection and improve results.
+- **HIDUPKAN MODE PESAWAT 2 DETIK! (BLUE COLOR)**: The blue message suggests turning on Airplane Mode if no results have been obtained yet. If you have already achieved results, you can disregard this message. It indicates a temporary issue that Instagram is experiencing.
+- **COOKIES DISABLED IN YOUR BROWSER!**: This message signifies that cookies are not functioning properly in your browser. This issue is specific to Instagram and indicates that cookies are not being recognized.
+- **LSD TOKEN NOT FOUND**: This issue does not affect the results you obtain. There’s no need to worry about it, as it will not impact the outcome of the script.
+- **HARAP TUNGGU BEBERAPA MENIT!**: This is a reminder to wait a few minutes. It’s not an error but an indication that your IP address might have been flagged or spammed, and waiting can help resolve the issue.
 
-### I Only Got Checkpoints?
+### Troubleshooting Dump Failures
+- **Spam or Blocked Account**: Your Instagram account might have been flagged for spam or temporarily blocked for 24 hours. This can prevent successful dumping.
+- **Logged Out Cookies**: If your Instagram account or the cookies you use are logged out, you will need to update them with new ones. Ensure you have valid and active cookies for the process.
+- **Target or Cookie Issues**: Dump errors are often due to problems with the target account or the cookies you’re using. Verify that both are correct and functioning properly.
+- **Incorrect or Private Target**: The target account you entered may be incorrect, private, or verified with a blue tick. Make sure the target is accurate and accessible.
 
-- Instagram security is increasing so it becomes difficult to get successful results.
-- Incorrect selection of user agents and methods can cause checkpoint results.
-- The target you entered is not good or someone has already executed it.
-- Maybe your provider is not suitable for the method or user agent you chose.
+If you continue to experience difficulties or if the issues are not covered here, please refer to the script documentation or seek additional support. Remember, resolving these problems promptly will help you achieve better results and ensure smoother operation.
 
-### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
-
-- I forbid you from logging in using the browser because it causes bugs in your account.
-- There is one problem, if you can't log in, maybe your device is spammed so you can't log in to that account.
-- I hope that all results must be logged in the latest version of the Instagram application or the Instagram clone application.
-- You are required to turn on "Airplane Mode" before logging into the account.
-- You can log in using cookies stored on each date in the Results folder.
-
-### Bug Success Result?
-
-- The number of followers does not match?
-  - The problem with Instagram can be said that there is one username on two different accounts.
-  - Maybe you get accounts multiple times at the same second.
-- The cookies has been logged out?
-  - Maybe the account owner has changed the password so the cookies is logged out.
-  - There is a problem with Instagram that causes cookies to be logged out.
-- Instagram account can't be logged in.
-  - Instagram's security is high, which means that accounts cannot be logged in on new devices.
-  - Because your device or IP address is blocked by Instagram.
-
-### Problems When Cracking?
-
-- **"OOPS, AN ERROR OCCURRED!"** You don't need to worry, this is a marker for a smooth process.
-- **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry, this is a marker for a smooth process.
-- **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** You don't need to turn on airplane mode because this is not your IP address that is blocked.
-- **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
-- **"COOKIES DISABLED IN YOUR BROWSER!"** This lack of influence is unique to Instagram so that it conveys this response.
-- **"HARAP TUNGGU BEBERAPA MENIT!"** This is not an error but just a reminder if your IP address has been spammed.
-
-### Why Does Dump Fail?
-
-- Maybe your Instagram account was hit by spam or blocked for 24 hours.
-- Your Instagram account or cookies on your account are logged out and must be replaced with new ones.
-- I can guarantee that the dump error is a problem with Target or the Cookies you use.
-- The target you entered is incorrect or private and verified with a blue tick.
-
-##
-
-### Screenshots
-
+## Screenshots
 ![Results/Ok-16-July-2023.txt](https://github.com/RozhakXD/Premium/blob/main/Penyimpanan/Images/Ok-16-July-2023.png)
 
-##
+## Warning
+As the developer of this tool, it’s crucial to understand that the use of this software is entirely at your own risk. I do not accept any responsibility for the outcomes, whether they are intentional or unintended, that may result from using this tool. Please ensure you use it responsibly and in accordance with applicable laws and regulations. Always exercise caution and make informed decisions to avoid any potential issues.
 
-### Warning!
-As a developer, I want to emphasize that use of this tools is entirely the user's responsibility. I am not responsible for any consequences that may occur, whether intended or unintentional, when you use this tools.
+## License
+This project is not open source. All rights to the source code are reserved by the developer. Users are granted access to use the tool but do not have the rights to modify, distribute, or resell the source code. For more details, please refer to the [LICENSE](https://github.com/RozhakXD/Premium) file.
 
 ##
 ~~~python
