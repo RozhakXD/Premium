@@ -18,7 +18,7 @@ This script will not require updates because it is automatically updated at all 
 
 ## Features
 
-This script is developed using SSL pinning bypass methods for Instagram and the latest API version, allowing for login via cookies. This approach helps prevent Instagram from detecting and blocking spam. The script offers several features, including the ability to get free Likes, Comments, and Followers, and generates random user agents to keep the account updated and less detectable.
+This Program is developed using SSL pinning bypass methods for Instagram and the latest API version, allowing for login via cookies. This approach helps prevent Instagram from detecting and blocking spam. The script offers several features, including the ability to get free Likes, Comments, and Followers, and generates random user agents to keep the account updated and less detectable.
 
 <details>
   <summary>Show Image Features</summary>
