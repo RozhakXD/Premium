@@ -17,7 +17,7 @@
 This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
 ## Features
-This script is built using the latest version of the Instagram API and supports login via cookies, helping to prevent spam detection by Instagram. It includes features for obtaining free Likes, Comments, and Followers. Additionally, the script can generate random user agents, ensuring that the account remains up to date.
+This script is built using the latest version of the private Instagram API, obtained by bypassing SSL pinning of the Instagram app. It supports login via cookies, helping to prevent spam detection by Instagram. The script includes features for obtaining free Likes, Comments, and Followers. Additionally, it can generate random user agents, ensuring that the account remains up to date.
 
 <details>
   <summary>Show Image Features</summary>
