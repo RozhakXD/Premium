@@ -61,19 +61,19 @@ Additionally, the script includes a highly risky feature for brutally reporting 
 - **Pydroid - [Termux](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link)**
 
   ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install git python-pip
-  >> git clone --depth 1 https://github.com/RozhakXD/Premium.git
-  >> cd "Premium/Premium"
-  >> python -m pip install requests futures
-  >> chmod +x Prem
-  >> ./Prem
+  $ apt update -y && apt upgrade -y
+  $ pkg install git python-pip
+  $ git clone --depth 1 https://github.com/RozhakXD/Premium.git
+  $ cd "Premium/Premium"
+  $ python -m pip install requests futures
+  $ chmod +x Prem
+  $ ./Prem
   ```
   - **Running on Termux**
   
     ```
-    >> cd "$HOME/Premium/Premium"
-    >> ./Prem
+    $ cd "$HOME/Premium/Premium"
+    $ ./Prem
     ```
 
 ## Solutions and Issues
