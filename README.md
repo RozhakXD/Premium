@@ -6,9 +6,7 @@
 ![Open Source Badge](https://img.shields.io/badge/Open%20Source-No-red?style=flat-square&logo=open-source-initiative)
 
 ## 🔥 Deskripsi
-**Premium** adalah alat serangan brute force yang kuat untuk akun Instagram, dikembangkan menggunakan bahasa pemrograman **Python**. Diluncurkan pada **30 Juli 2021**, skrip ini dirancang untuk melakukan hacking pada akun Instagram secara otomatis dengan menggunakan daftar kata sandi yang sederhana dan efisien. Dengan antarmuka yang ramah pengguna, **Premium** sangat direkomendasikan bagi pemula yang ingin memahami teknik ini dengan mudah. 🎯
-
-Salah satu fitur unggulan dari skrip ini adalah penggunaan **metode SSL pinning bypass** dengan versi API terbaru, yang memastikan proses login lebih aman dan mengurangi risiko deteksi oleh Instagram. **Premium** juga mendukung berbagai platform seperti **Termux**, **Pydroid3**, dan **Windows PowerShell**, sehingga memberikan fleksibilitas bagi pengguna dalam menjalankan alat ini di berbagai perangkat.
+**Premium** adalah alat serangan brute force untuk akun Instagram yang dibangun dengan bahasa pemrograman **Python**. Diluncurkan pada **30 Juli 2021**, alat ini dirancang untuk memudahkan pemula dalam melakukan hacking dengan metode otomatis menggunakan daftar kata sandi. Fitur unggulan termasuk **metode SSL pinning bypass** yang aman dan kompatibilitas dengan platform **Termux**, **Pydroid3**, dan **Windows PowerShell**.
 
 ## ✨ Fitur Utama
 - 🔐 **Bypass SSL & API Terbaru**: Meningkatkan keamanan login dan menghindari deteksi spam.
