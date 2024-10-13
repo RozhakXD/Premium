@@ -45,7 +45,7 @@ $ ./Prem
 ## 📊 Statistik Penggunaan
 - **Jumlah Pengguna Aktif**: Tools ini digunakan oleh lebih dari **52.154 pengguna** di seluruh dunia.
 - **Frekuensi Penggunaan**: Rata-rata, alat ini digunakan **100 kali** per bulan.
-- **Feedback Pengguna**: **80% pengguna** memberikan umpan balik positif dan menyatakan bahwa alat ini membantu mereka.
+- **Feedback Pengguna**: Kami mendapatkan umpan balik positif dari **80% pengguna** yang menyatakan bahwa alat ini membantu mereka.
 - **Peningkatan Fitur**: Sejak peluncuran, kami telah menambahkan **15 fitur baru** berdasarkan saran pengguna.
 
 ## 🔒 Keamanan
