@@ -49,9 +49,9 @@ $ ./Prem
 - **Peningkatan Fitur**: Sejak peluncuran, kami telah menambahkan **15 fitur baru** berdasarkan saran pengguna.
 
 ## 🔒 Keamanan
-- **Privasi Data**: Kami berkomitmen untuk menjaga privasi data pengguna. Semua data yang dikumpulkan melalui alat ini tidak akan dibagikan dengan pihak ketiga tanpa izin eksplisit dari pengguna.
-- **Enkripsi Data**: Data yang dikirim dan diterima menggunakan enkripsi yang kuat untuk melindungi informasi sensitif dari akses tidak sah.
 - **Pembaruan Keamanan**: Kami secara rutin melakukan pembaruan keamanan untuk mengatasi potensi kerentanan dan memastikan bahwa alat tetap aman digunakan.
+- **Enkripsi Data**: Data yang dikirim dan diterima menggunakan enkripsi yang kuat untuk melindungi informasi sensitif dari akses tidak sah.
+- **Privasi Data**: Kami berkomitmen untuk menjaga privasi data pengguna. Semua data yang dikumpulkan melalui alat ini tidak akan dibagikan dengan pihak ketiga tanpa izin eksplisit dari pengguna.
 - **Panduan Keamanan**: Kami menyarankan pengguna untuk tidak menggunakan alat ini pada akun yang sensitif dan untuk selalu menjaga informasi login mereka dengan aman.
 
 ## 📸 Tangkapan Layar
