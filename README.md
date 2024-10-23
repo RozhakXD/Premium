@@ -15,7 +15,7 @@
 - 🚨 **Brutal Reporting**: Fitur risiko tinggi untuk melaporkan akun Instagram lain secara agresif.
 - 💻 **Cross-Platform**: Dapat dijalankan di Termux, Windows, dan Linux.
 
-## ⚙️ Installation
+## Installation
 ### Termux - [Alpha](https://drive.google.com/file/d/17ULiEz8qnvMs9wZ_yY_oYhk4kfOHE1mR/view?usp=sharing)🐧
 ```
 $ pkg update -y && pkg upgrade -y
