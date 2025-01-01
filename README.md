@@ -31,7 +31,7 @@ $ ./Prem
 
 ### Termux - [Beta](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link) 🐢
 ```
-$ apt update -y && apt upgrade -y
+$ pkg update -y && pkg upgrade -y
 $ pkg install git python-pip
 $ git clone --depth 1 https://github.com/RozhakXD/Premium.git
 $ cd "Premium/Premium"
