@@ -1,4 +1,4 @@
-# 🐍 PyInstaCrack - All-in-One Instagram Hacking Suite (Python-Powered) 🔥 
+# 🐍 PyInstaCrack - All-in-One Instagram Hacking Suite (Python-Powered) 💀 
 ![Premium Logo](https://github.com/user-attachments/assets/e98dd73a-511f-4d5f-b9c1-d77e62e47a28)
 ![Author Badge](https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square&logo=github)
 ![Python Badge](https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square&logo=python)
