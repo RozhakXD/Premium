@@ -15,7 +15,7 @@
 - 💻 **Cross-Platform**: Dapat dijalankan di Termux, Windows, dan Linux.
 
 ## Installation
-### Termux - [Alpha](https://drive.google.com/file/d/1r_qbH_q89mx1yhuhOk1Txj0eXWZVwPq6/view?usp=drive_link) 🐺
+### Termux - [Alpha](https://drive.google.com/file/d/1r_qbH_q89mx1yhuhOk1Txj0eXWZVwPq6/view?usp=drive_link) 🦁
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install clang python-pip libffi openssl libsodium binutils build-essential rust
@@ -28,7 +28,7 @@ $ chmod +x Prem
 $ ./Prem
 ```
 
-### Termux - [Beta](https://drive.google.com/file/d/1xKuP_-XNMNXUV-Io_GpKQvX4MB_K_VZW/view?usp=drive_link) 🐢
+### Termux - [Beta](https://drive.google.com/file/d/16tGUyiYFENuhoyp-eRdKlvlMqMnFrkGK/view?usp=drive_link) 🐺
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git python-pip
