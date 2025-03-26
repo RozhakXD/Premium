@@ -23,7 +23,7 @@ $ apt install python-cryptography
 $ SODIUM_INSTALL=system pip install pynacl
 $ git clone --depth 1 https://github.com/RozhakXD/Premium.git
 $ cd "Premium"
-$ python -m pip install -r requirements.txt
+$ pip install -r requirements.txt
 $ chmod +x Prem
 $ ./Prem
 ```
@@ -34,7 +34,7 @@ $ pkg update -y && pkg upgrade -y
 $ pkg install git python-pip
 $ git clone --depth 1 https://github.com/RozhakXD/Premium.git
 $ cd "Premium/Premium"
-$ python -m pip install requests
+$ pip install requests
 $ chmod +x Prem
 $ ./Prem
 ```
