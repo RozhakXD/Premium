@@ -23,8 +23,8 @@ $ pkg update -y && pkg upgrade -y
 $ pkg install clang python-pip libffi openssl libsodium binutils build-essential rust
 $ apt install python-cryptography
 $ SODIUM_INSTALL=system pip install pynacl
-$ git clone --depth 1 https://github.com/RozhakXD/Premium.git
-$ cd "Premium"
+$ git clone --depth 1 https://github.com/RozhakXD/PyInstaCrack.git
+$ cd "PyInstaCrack"
 $ pip install -r requirements.txt
 $ chmod +x Prem
 $ ./Prem
@@ -34,8 +34,8 @@ $ ./Prem
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git python-pip
-$ git clone --depth 1 https://github.com/RozhakXD/Premium.git
-$ cd "Premium/Premium"
+$ git clone --depth 1 https://github.com/RozhakXD/PyInstaCrack.git
+$ cd "PyInstaCrack/Premium"
 $ pip install requests
 $ chmod +x Prem
 $ ./Prem
